@@ -26,18 +26,11 @@ This is the backend for the Waste Sorting Mobile Application by Enviro365. It pr
 
 ## 🛠️ Setup & Run
 
-1.  **Clone the repo:**
-
-    ```bash
-    git clone [https://github.com/your-username/waste-sorting-backend.git](https://github.com/your-username/waste-sorting-backend.git)
-    cd waste-sorting-backend
-    ```
-
-2.  **Build & Run:**
+1.  **Build & Run:**
 
     ```bash
     mvn clean install
     mvn spring-boot:run
     ```
 
-3.  **Access API:** Runs on `http://localhost:8080`# EnviroWasteSortingApp
+2.  **Access API:** Runs on `http://localhost:8080`
